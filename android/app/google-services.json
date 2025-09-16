@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42591980788",
+    "project_id": "vaiswats",
+    "storage_bucket": "vaiswats.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42591980788:android:204616bd883bb57ba1e2a1",
+        "android_client_info": {
+          "package_name": "com.awfulalien.vaiswats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4nzxt7s5uyFfhAFEg0_MRzsPIQEPTlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
